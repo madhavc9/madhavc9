@@ -20,7 +20,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me @madhavc9 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-<img  src="[https://media.giphy.com/media/K5kfQExKk731K/giphy.gif](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif)" width="300px" align="right" alt="">
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" width="300px" align="right" alt="">
 
 ### Talking about Personal Stuff:
 
