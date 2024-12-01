@@ -10,9 +10,10 @@
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8409080793)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/madhavc9)
 
-### About Me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavc9&label=Profile%20views&color=0e75b6&style=flat" alt="madhavc9" /> </p>
+
+### About Me
 I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
@@ -55,8 +56,6 @@ Feel free to connect with me @madhavc9 for all things tech or just to say hello!
   <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </details>
-
-### Projects and Dev Stuffs:
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
