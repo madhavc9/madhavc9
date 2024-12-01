@@ -1,9 +1,8 @@
-<h2> Hey There, [Madhav](https://github.com/madhavc9) this side ! <img					  src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+<h2> Hey There, [Madhav](https://github.com/madhavc9) this side ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 [![Gmail Badge](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="gmail logo")](mailto:ranmadhav@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-choudhary-015124216/)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Discord Badge](https://img.shields.io/static/v1 message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo")](https://discordapp.com/users/UserID/884633245176713258)
+[![Discord Badge](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo")](https://discordapp.com/users/UserID/884633245176713258)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/madhav_c9)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/madhav.c9/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ranmadhav/)
@@ -11,7 +10,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/madhavc9)
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavc9&label=Profile%20views&color=0e75b6&style=flat" alt="madhavc9" /> </p>
 I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
@@ -77,4 +76,3 @@ Feel free to connect with me @madhavc9 for all things tech or just to say hello!
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
 	</ul>
 </details>
-
