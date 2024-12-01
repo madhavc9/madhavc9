@@ -17,7 +17,9 @@
   <p>
 	<br/><br/>
     I am a final year undergrad persuing btech in cse from VIT vellore with with a profound interest in Algorithms , Development, Artificial Intilligence and Machine Learning. 🚀
+	  <br/><br/>
     I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in machine learning, Javascript, Nodejs, MongoDB, React, etc. My experience spans working with cutting-edge frameworks, a dynamic tech stack, and developing solutions that merge creativity and technology. I’m always excited to collaborate and contribute to transformative ideas. 💡
+	  <br/><br/>
     I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.📈
     Feel free to connect with me <a href="https://www.linkedin.com/in/madhav-choudhary-015124216/">@madhavc9</a> for all things tech or just to say hello! Let's shape the future of tech together. 🌟
   </p>
