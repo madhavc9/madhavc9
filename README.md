@@ -10,18 +10,18 @@
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8409080793)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/madhavc9)
 
-### Glad to see you here ! 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavc9&label=Profile%20views&color=0e75b6&style=flat" alt="madhavc9" /> </p>
-
-### About Me
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
-
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
-
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
-
-Feel free to connect with me @madhavc9 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+<details>
+  <summary><b>📋 About Me</b></summary>
+  <p>
+    I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+    <br/><br/>
+    I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+    <br/><br/>
+    I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+    <br/><br/>
+    Feel free to connect with me <a href="https://www.linkedin.com/in/madhav-choudhary-015124216/">@madhavc9</a> for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+  </p>
+</details>
 
 <img  src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" width="300px" align="right" alt="">
 
@@ -58,6 +58,8 @@ Feel free to connect with me @madhavc9 for all things tech or just to say hello!
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </details>
 
+### Projects and Dev Stuffs:
+
 <details>
   <summary><b>⚡ Github Stats</b></summary>
   <br />
@@ -72,7 +74,6 @@ Feel free to connect with me @madhavc9 for all things tech or just to say hello!
 </details>
 
 <details>
-  <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> MacOS 13 Ventura</li>
@@ -89,6 +90,7 @@ Feel free to connect with me @madhavc9 for all things tech or just to say hello!
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
+💙 If you like my projects, Give them ⭐ and Share it with friends!
+Made with ❤️ in India
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 </div>
