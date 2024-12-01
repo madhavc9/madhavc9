@@ -74,7 +74,15 @@
   <br />
  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavc9&hide_border=true" />
 </details></p>
+#### Top Repositories
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madhavc9&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madhavc9&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 <details>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
