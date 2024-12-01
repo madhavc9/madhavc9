@@ -76,8 +76,8 @@
 <details>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
+  	    <li><b>OS:</b> macOS Sequoia</li>
+	    <li><b>Laptop: </b> Macbook Air M2</li>
   	    <li><b>Browser: </b> Chrome & Safari</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
@@ -91,6 +91,6 @@
 <div align="center">
 
 💙 If you like my projects, Give them ⭐ and Share it with friends!
-Made with ❤️ in India
+<p align="center">Made with ❤️ in India</p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 </div>
