@@ -70,8 +70,8 @@
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavc9&hide_border=true" />
-</details>
+ <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavc9&hide_border=true" />
+</details></p>
 
 <details>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
