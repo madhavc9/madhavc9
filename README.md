@@ -9,6 +9,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ranmadhav/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8409080793)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/madhavc9)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-24292e?style=flat&logo=github&logoColor=white)](https://madhavc9.github.io/portfolio_madhavc9/)
 ### Glad to see you here ! 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavc9&label=Profile%20views&color=0e75b6&style=flat" alt="madhavc9" /> </p>
