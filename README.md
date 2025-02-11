@@ -97,7 +97,7 @@
 </details>
 
 <details>
-  <summary><b>⚡ Github Profile Trophy </b></summary>
+  <summary><b>🏅 Github Profile Trophy </b></summary>
   <br />
   <p align="center">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" />
